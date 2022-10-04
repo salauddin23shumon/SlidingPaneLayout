@@ -1,0 +1,5 @@
+# Android Studio will place build artifacts here
+debug/
+profile/
+release/
+build/
